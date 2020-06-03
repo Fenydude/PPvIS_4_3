@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.eclipse.swtchart-0.7.0-201906051446-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../SWT/swt-win64-3.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SWT/org.eclipse.swtchart-0.7.0-201906051446.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../SWT/org.eclipse.swtchart-0.7.0-201906051446-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
